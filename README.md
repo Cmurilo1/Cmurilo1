@@ -1,27 +1,35 @@
-# Olá, eu sou o Claudio Murilo! 👋
 
-### Desenvolvedor Front-End em Formação | Estudante Alura
+<h1 align="center">Olá, eu sou o Claudio Murilo! 👋</h1>
 
-Sou um entusiasta da tecnologia focado em construir interfaces modernas e funcionais. Atualmente, estou mergulhando no ecossistema de desenvolvimento web.
+<p align="center">
+  <strong>Desenvolvedor Front-End em Formação | Estudante Alura</strong>
+</p>
 
----
+<p align="center">
+  Sou um entusiasta da tecnologia focado em construir interfaces modernas e funcionais. Atualmente, estou mergulhando no ecossistema de desenvolvimento web.
+</p>
+
+<hr>
 
 ### 🛠️ Tecnologias e Ferramentas:
-
-![](https://img.shields.io) 
-![](https://img.shields.io) 
-![](https://img.shields.io) 
-![](https://img.shields.io) 
+<p align="left">
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
+<img src="https://img.shields.io" />
+</p>
 
 ---
 
 ### 📊 Meu Desempenho:
-
-<img src="https://github-readme-stats.vercel.app" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="Estatísticas do GitHub" />
+</p>
 
 ---
 
 ### 📫 Vamos nos conectar?
-
-[![](https://img.shields.io)](https://www.linkedin.com)
-[![](https://img.shields.io)](mailto:contatocmurilo1@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io" /></a>
+<a href="mailto:contatocmurilo1@gmail.com"><img src="https://img.shields.io" /></a>
+</p>
