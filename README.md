@@ -3,7 +3,7 @@
 
 # Olá, eu sou o Claudio Murilo! 👋
 
-### 🔙 Desenvolvedor Back-End em Formação | Estudante Alura
+### 🔙 Desenvolvedor Back-End em Formação | Alura Estudante
 
 Sou apaixonado por resolver problemas através da lógica e construção de sistemas robustos. Atualmente, focado no ecossistema Back-End.
 
@@ -39,3 +39,4 @@ Sou apaixonado por resolver problemas através da lógica e construção de sist
 <a href="https://www.linkedin.com" target="_blank"><img src="linkedin.png" width="40" alt="LinkedIn"></a>
 <a href="mailto:contatocmurilo1@gmail.com" target="_blank"><img src="email.jpeg" width="40" alt="Email"></a>
 </p>
+
