@@ -14,26 +14,16 @@ Sou um entusiasta da tecnologia focado em construir interfaces modernas e funcio
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
-<p align="left">
-  <img src="https://img.shields.io" alt="JavaScript" />
-  <img src="https://img.shields.io" alt="HTML5" />
-  <img src="https://img.shields.io" alt="CSS3" />
-  <img src="https://img.shields.io" alt="GitHub" />
-  <img src="https://img.shields.io" alt="Git" />
-</p>
+![JavaScript](https://img.shields.io) ![HTML5](https://img.shields.io) ![CSS3](https://img.shields.io) ![GitHub](https://img.shields.io) ![Git](https://img.shields.io)
 
 ---
 
 ### 📊 Meu Desempenho:
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app)
 
 ---
 
 ### 📫 Vamos nos conectar?
-<p align="left">
-<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io" alt="LinkedIn"></a>
-<a href="mailto:contatocmurilo1@gmail.com" target="_blank"><img src="https://img.shields.io" alt="Email"></a>
-</p>
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
+[![Email](https://img.shields.io)](mailto:contatocmurilo1@gmail.com)
