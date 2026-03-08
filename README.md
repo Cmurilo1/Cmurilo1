@@ -1,35 +1,28 @@
 
-<h1 align="center">Olá, eu sou o Claudio Murilo! 👋</h1>
+# Olá, eu sou o Claudio Murilo! 👋
 
-<p align="center">
-  <strong>Desenvolvedor Front-End em Formação | Estudante Alura</strong>
-</p>
+### Desenvolvedor Front-End em Formação | Estudante Alura
 
-<p align="center">
-  Sou um entusiasta da tecnologia focado em construir interfaces modernas e funcionais. Atualmente, estou mergulhando no ecossistema de desenvolvimento web.
-</p>
-
-<hr>
-
-### 🛠️ Tecnologias e Ferramentas:
-<p align="left">
-<img src="https://img.shields.io" />
-<img src="https://img.shields.io" />
-<img src="https://img.shields.io" />
-<img src="https://img.shields.io" />
-</p>
+Sou um entusiasta da tecnologia focado em construir interfaces modernas e funcionais. Atualmente, estou mergulhando no ecossistema de desenvolvimento web.
 
 ---
 
-### 📊 Meu Desempenho:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Estatísticas do GitHub" />
-</p>
+### 💻 No que estou trabalhando:
+- 🎓 Estudando **JavaScript** e Lógica.
+- 🏗️ Projetos: **Alura Plus** e **Robotron 2000**.
 
 ---
 
-### 📫 Vamos nos conectar?
-<p align="left">
-<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io" /></a>
-<a href="mailto:contatocmurilo1@gmail.com"><img src="https://img.shields.io" /></a>
-</p>
+### 🛠️ Tecnologias:
+**JavaScript | HTML5 | CSS3 | GitHub | Git**
+
+---
+
+### 📊 Estatísticas:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app)
+
+---
+
+### 📫 Contato:
+- **LinkedIn:** https://www.linkedin.com
+- **Email:** contatocmurilo1@gmail.com
