@@ -1,6 +1,6 @@
 # Olá, eu sou o Claudio Murilo! 👋
 
-### Desenvolvedor Back end em Formação | Estudante Alura
+### Desenvolvedor Front-End em Formação | Estudante Alura
 
 Sou um entusiasta da tecnologia focado em construir interfaces modernas e funcionais. Atualmente, estou mergulhando no ecossistema de desenvolvimento web, aprimorando minhas habilidades em lógica e tecnologias front-end.
 
@@ -34,6 +34,6 @@ Sou um entusiasta da tecnologia focado em construir interfaces modernas e funcio
 
 ### 📫 Vamos nos conectar?
 <p align="left">
-<a href="www.linkedin.com/in/cmurilo1" target="_blank"><img src="https://img.shields.io" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io" alt="LinkedIn"></a>
 <a href="mailto:contatocmurilo1@gmail.com" target="_blank"><img src="https://img.shields.io" alt="Email"></a>
 </p>
