@@ -1,12 +1,9 @@
 
 
+Desenvolvedor Front-end em formação, com foco em JavaScript, HTML e CSS.
+Tenho experiência prática na criação de interfaces web, consumo de APIs e versionamento com Git.
+Atualmente desenvolvendo projetos próprios para aprimorar minhas habilidades e resolver problemas reais.
 
-
-# Olá, eu sou o Claudio Murilo! 👋
-
-### 🔙 Desenvolvedor Back-End em Formação | Alura Estudante
-
-Sou apaixonado por resolver problemas através da lógica e construção de sistemas robustos. Atualmente, focado no ecossistema Back-End e arquitetura de dados.
 
 ---
 
